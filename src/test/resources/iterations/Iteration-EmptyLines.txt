@@ -1,0 +1,17 @@
+##########################
+
+** Base Information **
+ID: K76261X ***
+Type: MX7
+
+** Measurements **
+pressure1-17
+
+pressure2-18
+
+
+
+
+pressure3-19
+
+

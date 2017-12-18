@@ -1,0 +1,5 @@
+*** ID: {{STRING:id}} ***
+- type: {{STRING:type}}
+- time-stamp: {{DATE:timestamp}}
+
+* Device: XKK-{{INTEGER:deviceid}}

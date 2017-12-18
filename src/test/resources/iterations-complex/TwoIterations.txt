@@ -1,0 +1,6 @@
+** All measurements **
+pressure1;17
+pressure2;18
+pressure3;19
+setMax1;8.1;text1
+setMax2;8.2;text2

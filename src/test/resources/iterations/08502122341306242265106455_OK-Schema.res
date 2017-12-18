@@ -1,0 +1,10 @@
+10884239;  {{DATE:date}};  0265956026;  L202_ESP_12Spul;  {{INTEGER:id}};  76;  0;  76;  0;  150127;  
+#PROG_ST;1;  
+#INSP_RES;{{STRING:result}};  
+#DIAG_RES;ND;  
+#SYS_NAME;{{TEXT:description}};  
+#TIME_TOT;41548;  
+#TIME_ANA;68;  
+#ST_INDEX;1;  
+#TYPE_VAR;;  
+{{*:pins}}{{STRING:type}};  {{TEXT:description}};  {{STRING:component}};  {{TEXT:position}};  {{STRING:resolution}};

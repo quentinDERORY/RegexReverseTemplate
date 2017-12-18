@@ -1,0 +1,8 @@
+##########################
+
+** Base Information **
+ID: {{STRING:id}} ***
+Type: {{STRING:type}}
+
+** Measurements **
+{{*:measurements}}{{STRING:measurement}}-{{INTEGER:value}}

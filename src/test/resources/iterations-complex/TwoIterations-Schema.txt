@@ -1,0 +1,3 @@
+** All measurements **
+{{*:measurements}}{{STRING:measurement}};{{INTEGER:value}}
+{{*:parameters}}{{STRING:parameter}};{{DOUBLE:value}};{{STRING:description}}

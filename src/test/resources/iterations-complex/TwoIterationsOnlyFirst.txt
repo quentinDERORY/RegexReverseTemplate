@@ -1,0 +1,4 @@
+** All measurements **
+pressure1;17
+pressure2;18
+pressure3;19
